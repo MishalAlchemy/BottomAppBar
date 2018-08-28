@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AppBarBottom</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="lion_blurb">The lion (Panthera leo) is one of the big cats in the genus Panthera and a member of the family Felidae</string>
+    <string name="gorilla_blurb" tools:ignore="PluralsCandidate">Gorillas are ground-dwelling, predominantly herbivorous apes that inhabit the forests of central Africa.</string>
+    <string name="tiger_blurb">The tiger (Panthera tigris) is the largest cat species.</string>
+    <string name="giraffe_blurb">The giraffe (Giraffa) is a genus of African even-toed ungulate mammals.</string>
+    <string name="fox_blurb">Foxes are small-to-medium-sized, omnivorous mammals belonging to several genera of the family Canidae.</string>
+    <string name="armadillo_blurb">Armadillos are New World placental mammals with a leathery armour shell.</string>
+    <string name="dog_blurb">The domestic dog (Canis lupus familiaris or Canis familiaris) is a member of genus Canis.</string>
+    <string name="penguin_blurb">Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds.</string>
+    <string name="eagle_blurb">Eagles are large, powerfully built birds of prey, with heavy heads and beaks.</string>
+    <string name="rabbit_blurb">Rabbits are small mammals in the family Leporidae of the order Lagomorpha, found in several parts of the world.</string>
+    <string name="dolphin_blurb">Dolphins are a widely distributed and diverse group of aquatic mammals.</string>
+    <string name="snek_blurb">Snakes are elongated, legless, carnivorous reptiles of the suborder Serpentes[2].</string>
+    <string name="seal_blurb">Pinnipeds belong to the order Carnivora and their closest living relatives are bears and musteloids (weasels, raccoons, skunks and red pandas), having diverged about 50 million years ago.</string>
+    <string name="rhino_blurb">A rhinoceros (/raɪˈnɒsərəs/, meaning "nose horn"), often abbreviated to rhino.</string>
+    <string name="leopard_blurb">The leopard (Panthera pardus) /ˈlɛpərd/ is one of the five "big cats" in the genus Panthera.</string>
+    <string name="hippo_blurb">The common hippopotamus (Hippopotamus amphibius), or hippo, is a large, mostly herbivorous mammal in sub-Saharan Africa.</string>
+    <string name="pig_blurb">A pig is any of the animals in the genus Sus, within the Suidae family of even-toed ungulates.</string>
+    <string name="starfish_blurb">Starfish or sea stars are star-shaped echinoderms belonging to the class Asteroidea.</string>
+    <string name="owl_blurb">Owls are birds from the order Strigiformes.</string>
+
+
+    <string name="image">image</string>
+    <string name="desc">Being the savage\'s bowsman, that is, the person who pulled the
+    bow-oar in his boat. Dolor sit amet.</string>
+
+    <string name="italic">Friday 12 FEB.</string>
+    <string name="duplicate">DUPLICATE</string>
+    <string name="schedule">SCHEDULE</string>
+    <string name="delete">DELETE</string>
+
+</resources>

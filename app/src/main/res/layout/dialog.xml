@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/colorWhite"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/closeDialogImg"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="10dp"
+        android:src="@drawable/ic_clear_black_24dp"
+        android:tint="#000" />
+
+    <ImageView
+        android:id="@+id/imagePerson"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_below="@+id/closeDialogImg"
+        android:scaleType="centerCrop"
+        android:src="@drawable/dog" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imagePerson"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Mandarin orange (Citrus reticulata) is an original species of citrus, and is a progenitor of the common orange. Bitter orange (Citrus aurantium), also known as Seville orange, sour orange (especially when used as rootstock for a sweet orange tree), bigarade orange and marmalade orange."
+        android:textColor="@color/colorBlack" />
+</RelativeLayout>
